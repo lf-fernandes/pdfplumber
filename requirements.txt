@@ -1,3 +1,1 @@
-pdfminer.six==20220524
-Pillow>=9.1
-Wand>=0.6.7
+pdfplumber
